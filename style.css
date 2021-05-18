@@ -1,0 +1,101 @@
+body {
+    background-color: #226764;
+}
+
+header {
+    background-color: #003432;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+nav {
+    background-color: #0D4D4B;
+    height: 50px;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+#galeria {
+    background-color: #41817F;
+    height: 50px;
+    width: 75%;
+    float: left;
+    text-align: center;
+}
+
+article {
+    background-color: #679B99;
+    height: 600px;
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+
+tr, td {
+    border-radius: 3px;
+    border-color: black;
+    border-style: solid;
+
+}
+table {
+    padding-left: 13px;
+}
+
+#blok_podstrona {
+    height: auto;
+    width: 100%;
+    background-color: #679B99;
+    margin-top: 10px;
+}
+
+#div_mniejszy {
+    background-color: #679B99;
+    height: 400px;
+    width: 25%;
+    float: left;
+}
+h3 {
+    text-align: center;
+}
+
+#link {
+    background-color: #0D4D4B;
+    height: 100px;
+    width: 25%;
+    float: left;
+}
+
+a:link {
+    color: brown;
+}
+
+a:visited {
+    color: burlywood;
+}
+
+footer {
+    background-color: #41817F;
+    height: 50px;
+    width: 75%;
+    float: left;
+    text-align: right;
+}
+
+#zdjęcia {
+    height: auto;
+    width: 100%;
+    background-color: #679B99;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#footer_podstrona {
+    background-color: #41817F;
+    height: 50px;
+    width: 100%;
+    float: left;
+    text-align: right;
+}
